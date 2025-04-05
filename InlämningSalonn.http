@@ -1,0 +1,6 @@
+@InlämningSalonn_HostAddress = http://localhost:5097
+
+GET {{InlämningSalonn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
